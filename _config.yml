@@ -1,19 +1,4 @@
-name: HCPN Trucking
-favicon: null
-layout_spectrum: 0.8960772913414985
 typography_spectrum: 0.26598627818748355
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,23 @@ color:
   lightness: 0.7495053708553314
   saturation: 0.6393185714259744
   rhythmicContrast: 0.014979226747527719
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8960772913414985
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: HCPN Trucking
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 'Hey,... it''s me.'
+    url: 'https://www.facebook.com/densermania'
+    type: external
+favicon: null
 purpose: []
